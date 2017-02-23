@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxjavaTes</string>
+    <string name="news_text">新闻</string>
+    <string name="shopcar">购物车</string>
+    <string name="faxian">发现</string>
+    <string name="me">我</string>
+</resources>
